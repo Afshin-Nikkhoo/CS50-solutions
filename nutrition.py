@@ -1,6 +1,6 @@
 def main():
-    fruit  = input("Item: ").lower()
-    calories(fruit)
+    Furit  = input("Item: ").lower()
+    calories(Furit)
 
 def calories(g):
    cal_list = {
